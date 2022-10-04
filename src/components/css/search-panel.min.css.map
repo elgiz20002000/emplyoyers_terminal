@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACV,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,gBAAgB,CAAE,OAAO,CACzB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,gBAAgB,CAC3C,KAAK,CAAE,IAAI,CACd",
+    "sources": [
+        "../search-panel/search-panel.scss"
+    ],
+    "names": [],
+    "file": "search-panel.min.css"
+}

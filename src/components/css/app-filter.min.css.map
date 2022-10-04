@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,AAAC,CACP,UAAU,CAAE,IAAI,CACnB",
+    "sources": [
+        "../app-filter/app-filter.scss"
+    ],
+    "names": [],
+    "file": "app-filter.min.css"
+}

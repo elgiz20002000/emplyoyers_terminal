@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACV,UAAU,CAAE,IAAI,CAChB,OAAO,CAAE,IAAI,CACb,gBAAgB,CAAE,OAAO,CACzB,aAAa,CAAE,GAAG,CAClB,UAAU,CAAE,IAAI,CAAC,IAAI,CAAC,IAAI,CAAC,gBAAgB,CAC3C,KAAK,CAAE,IAAI,CACd,AAED,AAAA,SAAS,AAAC,CACN,UAAU,CAAE,IAAI,CAKnB,AAND,AAEI,SAFK,CAEL,KAAK,AAAC,CACF,KAAK,CAAE,KAAK,CACZ,YAAY,CAAE,IAAI,CACrB",
+    "sources": [
+        "../employees-add-form/employees-add-form.scss"
+    ],
+    "names": [],
+    "file": "employees-add-form.min.css"
+}
